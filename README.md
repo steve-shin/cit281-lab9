@@ -2,7 +2,7 @@
 
 ### Overview
 
-- You will be working through the GitHub Learning Lab [Create a release based workflow] (https://lab.github.com/githubtraining/create-a-release-based-workflow) course.
+- You will be working through the GitHub Learning Lab [Create a release based workflow](https://lab.github.com/githubtraining/create-a-release-based-workflow) course.
 
 - The GitHub Learning Lab courses are self-directed repos added to your GitHub account. The repos represent individual courses with a series of steps to follow to learn the course material. Each course is isolated to the course repo added to your GitHub account. Some steps will hide the next steps until a specific action or change to the repo has been completed.
 
